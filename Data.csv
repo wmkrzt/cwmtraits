@@ -1,0 +1,57 @@
+id;size_as_particle;shape_as_particle;toxicity;motility;armor;spines;body_length;food;feeding;opti_food
+1;14,17527859;discoid;non_toxic;non_motile;armored;spineless;385,8190752;B;Cilsus;26,2857538
+2;25,68656863;discoid;non_toxic;non_motile;armored;spineless;34,41498283;B;Cilsus;3,874748072
+3;7,362727273;ellipsoid;non_toxic;motile;armored;spineless;822,3237961;BA;Bfiltr;31,64599902
+4;20,14203095;cylindric colony;non_toxic;non_motile;armorless;spineless;3609,652075;P;Tactile;360,6635777
+5;41,23359375;filament;toxic;non_motile;armorless;spineless;887,6257661;BA;Dfiltr;21,15706957
+6;8,86124031;cylindric colony;non_toxic;non_motile;armorless;spineless;152,4501505;B;Cilsus;6,795771613
+7;29,05404066;filament;toxic;non_motile;armorless;spineless;178,6223397;B;Cilsus;8,67140316
+8;30,56656315;ellipsoid;non_toxic;non_motile;armorless;spineless;73,23808436;B;Cilsus;7,162354373
+9;25,03836267;sphaerical colony;toxic;non_motile;armorless;spineless;2909,18662;P;Tactile;287,3145806
+10;7,176421053;sphaerical colony;non_toxic;non_motile;armorless;spineless;1838,959523;A;Dfiltr;138,4425463
+11;15,36352843;sphaerical colony;toxic;non_motile;armorless;spineless;435,3796167;B;Cilsus;23,46031189
+12;26,5745349;sphaerical colony;toxic;non_motile;armorless;spineless;155,3528366;B;Cilsus;11,65189298
+13;6,917530364;filament;non_toxic;non_motile;armored;spines;81,7770896;B;Cilsus;7,25211327
+14;3,507959184;discoid;non_toxic;non_motile;armored;spineless;289,3488223;B;Cilsus;19,07204892
+15;21,24850649;cylindric;non_toxic;non_motile;armored;spineless;728,314238;A;Dfiltr;30,68564191
+16;12,09147826;flat colony;non_toxic;non_motile;armorless;spineless;354,5456116;B;Cilsus;12,29856137
+17;14,88820449;sphaerical colony;non_toxic;non_motile;armorless;spineless;1003,173118;AP;Ambush;52,58922019
+18;7,764022699;sphaerical colony;non_toxic;non_motile;armorless;spineless;519,9237691;BA;Bfiltr;12,93588278
+19;8,577320598;sphaerical colony;non_toxic;non_motile;armorless;spineless;782,2947216;BA;Dfiltr;22,41425924
+20;11,95501666;cylindric colony;non_toxic;non_motile;armorless;spineless;268,3731476;B;Cilsus;12,50617228
+21;3,476436782;ellipsoid;non_toxic;non_motile;armorless;spineless;1973,185257;A;Dfiltr;148,7633232
+22;25,57145352;sphaerical colony;toxic;non_motile;armorless;spineless;1929,491185;P;Tactile;176,7367329
+23;26,71615002;sphaerical colony;toxic;non_motile;armorless;spineless;965,252644;A;Dfiltr;22,38849449
+24;26,25683835;sphaerical colony;toxic;non_motile;armorless;spineless;529,6813636;A;Cilsus;19,87062609
+25;26,70483953;sphaerical colony;toxic;non_motile;armorless;spineless;706,9115603;A;Dfiltr;22,50913572
+26;26,7294448;sphaerical colony;toxic;non_motile;armorless;spineless;346,4841301;B;Cilsus;18,84564802
+27;22,26076941;sphaerical colony;toxic;non_motile;armorless;spineless;655,8015796;A;Current;37,75997032
+28;21,47228209;sphaerical colony;toxic;non_motile;armorless;spineless;959,8603228;AP;Ambush;49,5833066
+29;5,485462865;cylindric colony;non_toxic;non_motile;armorless;spineless;463,4679962;BAP;Rsus;26,99453791
+30;5,532348149;cylindric colony;non_toxic;non_motile;armorless;spines;92,41058416;BA;Cilsus;7,646196319
+31;5,908323791;cylindric colony;non_toxic;non_motile;armorless;spineless;553,9149923;P;Ambush;29,39479101
+32;7,771018145;cylindric colony;non_toxic;non_motile;armorless;spines;407,7633823;BA;Bfiltr;9,881287197
+33;5,74224506;cylindric colony;non_toxic;non_motile;armorless;spines;779,002907;BA;Dfiltr;33,34583767
+34;5,495937831;cylindric colony;non_toxic;non_motile;armorless;spineless;900,4062727;BA;Dfiltr;36,43873868
+35;11,07104962;sphaerical colony;non_toxic;non_motile;armorless;spineless;928,1750477;A;Current;48,4849248
+36;13,52066548;sphaerical colony;non_toxic;non_motile;armorless;spineless;525,6354941;BA;Cilsus;25,83828221
+37;18,58229124;sphaerical colony;toxic;non_motile;armorless;spineless;352,0767324;B;Cilsus;19,48953036
+38;11,85804223;sphaerical colony;non_toxic;non_motile;armorless;spineless;752,7504399;AP;Ambush;40,04936456
+39;25,24857201;sphaerical colony;toxic;non_motile;armorless;spineless;746,8393633;A;Current;43,40436063
+40;22,87216787;sphaerical colony;toxic;non_motile;armorless;spineless;590,0735932;A;Cilsus;34,06325274
+41;9,146714339;cylindric colony;non_toxic;non_motile;armorless;spineless;147,925419;A;Cilsus;11,33072513
+42;23,39706691;sphaerical colony;toxic;non_motile;armorless;spineless;860,6129259;AP;Ambush;47,31333443
+43;6,878000308;cylindric colony;non_toxic;non_motile;armorless;spines;660,7924425;BA;Ambush;39,24531684
+44;5,52415144;cylindric colony;non_toxic;non_motile;armorless;spines;753,4156279;BA;Ambush;42,40963224
+45;5,485771429;cylindric colony;non_toxic;non_motile;armorless;spines;483,96452;BAP;Cilsus;28,24915421
+46;5,402208092;cylindric colony;non_toxic;non_motile;armorless;spines;480,9963931;BA;Bfiltr;13,11579654
+47;5,480300607;cylindric colony;non_toxic;non_motile;armorless;spines;802,8332485;BA;Bfiltr;36,86031521
+48;6,018177806;cylindric colony;non_toxic;non_motile;armorless;spines;1189,158537;A;Current;66,63299536
+49;5,378368421;cylindric colony;non_toxic;non_motile;armorless;spines;887,0087679;A;Current;49,52230509
+50;24,35766065;sphaerical colony;toxic;non_motile;armorless;spineless;883,8713945;AP;Ambush;47,15857987
+51;16,78530562;sphaerical colony;toxic;non_motile;armorless;spineless;694,3494805;BA;Dfiltr;27,2702315
+52;17,50864906;sphaerical colony;toxic;non_motile;armorless;spineless;696,6615771;A;Current;35,69097654
+53;11,64732204;cylindric colony;non_toxic;non_motile;armorless;spines;871,6217468;A;Current;45,98674719
+54;19,23223652;sphaerical colony;toxic;non_motile;armorless;spineless;788,7010489;A;Cilsus;38,89062746
+55;25,88663176;sphaerical colony;toxic;non_motile;armorless;spineless;890,196648;AP;Ambush;48,91947593
+56;26,0696715;sphaerical colony;toxic;non_motile;armorless;spineless;422,1803107;A;Cilsus;20,30758671
